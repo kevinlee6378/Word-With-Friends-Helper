@@ -1,0 +1,113 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.text-field {
+	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 50 50;
+    -fx-faint-focus-color: blue;
+}
+.text-field.new {
+	-fx-faint-focus-color: red;
+	-fx-border-radius: 50;
+	-fx-text-box-border: red;
+}
+#normal {
+    -fx-background-image:url('normal.png');
+}
+#dl {
+    -fx-background-image:url('dl.png');
+}
+#dw {
+    -fx-background-image:url('dw.png');
+}
+#tl {
+    -fx-background-image:url('tl.png');
+}
+#tw {
+    -fx-background-image:url('tw.png');
+}
+#middle {
+    -fx-background-image:url('middle.png');
+}
+#a {
+    -fx-background-image:url('a.png');
+}
+#b {
+    -fx-background-image:url('b.png');
+}
+#c {
+    -fx-background-image:url('c.png');
+}
+#d {
+    -fx-background-image:url('d.png');
+}
+#e {
+    -fx-background-image:url('e.png');
+}
+#f {
+    -fx-background-image:url('f.png');
+}
+#g {
+    -fx-background-image:url('g.png');
+}
+#h {
+    -fx-background-image:url('h.png');
+}
+#i {
+    -fx-background-image:url('i.png');
+}
+#j {
+    -fx-background-image:url('j.png');
+}
+#k {
+    -fx-background-image:url('k.png');
+}
+#l {
+    -fx-background-image:url('l.png');
+}
+#m {
+    -fx-background-image:url('m.png');
+}
+#n {
+    -fx-background-image:url('n.png');
+}
+#o {
+    -fx-background-image:url('o.png');
+}
+#p {
+    -fx-background-image:url('p.png');
+}
+
+#q {
+    -fx-background-image:url('q.png');
+}
+#r {
+    -fx-background-image:url('r.png');
+}
+#s {
+    -fx-background-image:url('s.png');
+}
+#t {
+    -fx-background-image:url('t.png');
+}
+#u {
+    -fx-background-image:url('u.png');
+}
+#v {
+    -fx-background-image:url('v.png');
+}
+#w {
+    -fx-background-image:url('w.png');
+}
+#x {
+    -fx-background-image:url('x.png');
+}
+#y {
+    -fx-background-image:url('y.png');
+}
+#z {
+    -fx-background-image:url('z.png');
+}
+#fill {
+    -fx-background-image:url('fill.png');
+}
+

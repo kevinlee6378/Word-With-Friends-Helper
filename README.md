@@ -1,1 +1,0 @@
-# Word-With-Friends-Helper
